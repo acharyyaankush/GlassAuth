@@ -85,5 +85,3 @@ Environment variables are managed through `.env` and are strictly excluded from 
 ---
 
 Developed  by Ankush Acharyya
-
-```
